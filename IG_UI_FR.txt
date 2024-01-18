@@ -1,0 +1,36 @@
+IG_UI_FR = {
+	IGUI_VehicleName90pierceArrow = "'90 Pierce Arrow Camion Citerne"
+
+	IGUI_VehiclePartCatARRWlefttrunk = "Stockage gauche",
+	IGUI_VehiclePartTrunkDoorLeft = "Trappe de Stockage gauche",
+	IGUI_VehiclePartARRWTrunkLTL = "Compartiment supérieur gauche",
+	IGUI_VehiclePartARRWTrunkLTR = "Compartiment supérieur droit",
+	IGUI_VehiclePartARRWTrunkLBL = "Compartiment inférieur gauche",
+	IGUI_VehiclePartARRWTrunkLBR = "Compartiment inférieur droit",
+
+	IGUI_VehiclePartCatARRWrighttrunk = "Stockage droite",
+	IGUI_VehiclePartTrunkDoorRight = "Trappe de Stockage droite",
+	IGUI_VehiclePartARRWTrunkRL = "Compartiment gauche",
+	IGUI_VehiclePartARRWTrunkRR = "Compartiment droit",
+
+	IGUI_VehiclePartTrunkDoorRear = "Trappe de coffre",
+	IGUI_VehiclePartARRWTrunk = "Coffre",
+
+	IGUI_VehiclePartARRWMudflaps = "Garde-boues",
+	IGUI_VehiclePartARRWBumperFront = "Pare-chocs",
+	IGUI_VehiclePartARRWLadders = "Échelles",
+	IGUI_VehiclePartARRWHoses = "Tuyaux",
+
+	IGUI_VehiclePart1500WaterTruckTank = "Réservoir d'eau",
+
+	IGUI_VehiclePartARRWWindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartARRWWindowFrontLeftArmor = "Blindage de vitre avant gauche",
+	IGUI_VehiclePartARRWWindowFrontRightArmor = "Blindage de vitre avant droite",
+	IGUI_VehiclePartARRWWindowMiddleLeftArmor = "Blindage de vitre centrale gauche",
+	IGUI_VehiclePartARRWWindowMiddleRightArmor = "Blindage de vitre centrale droite",
+	IGUI_VehiclePartARRWWindowRearLeftArmor = "Blindage de vitre arrière gauche",
+	IGUI_VehiclePartARRWWindowRearRightArmor = "Blindage de vitre arrière droite",
+	IGUI_VehiclePartARRWWindshieldRearArmor = "Blindage de pare-brise arrière",
+
+	IGUI_CraftCategory_ARRW = "'90 Camion Citerne",
+}
