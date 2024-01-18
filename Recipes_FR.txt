@@ -1,0 +1,12 @@
+Recipes_FR = {
+	Recipe_Make_ARRW_Double_Tires = "Fabriquer Pneus doubles",
+	Recipe_Make_ARRW_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_ARRW_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_ARRW_Reinforced_Bumper = "Fabriquer Pare-chocs renforcé",
+	Recipe_Make_ARRW_Side_Window = "Fabriquer Vitre latérale",
+	Recipe_Make_ARRW_Side_Window_1 = "Fabriquer Vitre latérale",
+	Recipe_Make_ARRW_Side_Window_Armor = "Fabriquer Blindage de Vitre latérale",
+	Recipe_Make_ARRW_Tire = "Fabriquer Pneu",
+	Recipe_Make_ARRW_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_ARRW_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+}
