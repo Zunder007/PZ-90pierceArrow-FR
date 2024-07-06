@@ -18,4 +18,10 @@ Recipes_FR = {
 	Recipe_Dismantle_Pierce_Arrow_Seat = "Démonter Siège",
 	Recipe_Dismantle_Pierce_Arrow_Tire = "Démonter Pneu",
 	Recipe_Make_Window_Armor = "Fabriquer Blindage",
+
+	Recipe_Make_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_Vehicle_Double_Tires = "Fabriquer Pneus doubles",
+	Recipe_Make_Vehicle_Mudflaps = "Fabriquer Garde-boues",
+	Recipe_Make_Vehicle_Tire = "Fabriquer Pneu",
+	Recipe_Make_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
 }
